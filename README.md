@@ -1,6 +1,8 @@
 # test_fetch_TypeQL
-repo to test the functionality of Fetch with Joshua
+A simple repo to test the functionality of Fetch with Joshua
 
-can Vaticle return all of these variations with a single query, across all of the id's
+The aim is return all of these variations with a single query, across all of the id's
 
-if they can, then it will be super-flexible, but possibly verbose, so not useful interactively, but still useful automatically
+Everytime you run all of the cells, make sure you have a local copy of typedb (or set the connection object)
+
+The id's will be generated each time, and so the TypeDB Studio queries at the bottom will also refresh
